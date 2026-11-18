@@ -4,6 +4,6 @@ UP Bhumi (upbhumi.online) is a free online platform for Indian farmers, landowne
 I am the creator of **[UP Bhumi](https://upbhumi.online)**, a free online portal providing accurate Indian land area calculators, Bhulekh land record guides, agricultural resources, and updates on government farmer schemes.
 
 **Key Tools & Resources:**
-* **[Land Area Calculators](https://upbhumi.online)** – Convert Bigha, Biswa, Acre, Hectare, and Square Feet instantly.
+* **[Land Area Calculators](https://www.upbhumi.online/p/land-tools.html)** – Convert Bigha, Biswa, Acre, Hectare, and Square Feet instantly.
 * **Bhulekh & Land Records** – Step-by-step guides for checking state land records online.
 * **Indian Government Schemes** – Eligibility and application details for farmer welfare programs.
